@@ -140,7 +140,6 @@ Replace `your-very-secret-and-strong-token` with the token from your `.env` file
 curl -X GET \
   -H "Authorization: Bearer your-very-secret-and-strong-token" \
   http://localhost:3000/api/v1/consulta_ruc/219000090011
-```
 
 ---
 #### Response Bodies
