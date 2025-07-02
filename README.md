@@ -191,7 +191,8 @@ curl -X GET \
       "detail": "Error detail from DGI.",
       "raw": { "...": "..." }
     }
-    ```-   **`500 Internal Server Error`**: A problem occurred on the proxy server (e.g., bad credentials, DGI service unavailable).
+    ```
+-   **`500 Internal Server Error`**: A problem occurred on the proxy server (e.g., bad credentials, DGI service unavailable).
     ```json
     {
       "error": true,
