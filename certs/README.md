@@ -1,0 +1,1 @@
+# Insert the certificates here and point to them in the .env
