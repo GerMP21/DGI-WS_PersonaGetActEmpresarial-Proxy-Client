@@ -201,7 +201,8 @@ curl -X GET \
     }
     ```
 
-## Project Structure```
+## Project Structure
+```
 .
 ├── certs/                # Directory for your .pem files (ignored by git)
 ├── node_modules/         # Project dependencies (ignored by git)
