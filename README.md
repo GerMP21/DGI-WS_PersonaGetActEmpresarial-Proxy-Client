@@ -1,7 +1,3 @@
-Of course. Here is a complete, rewritten README.md from scratch. It is structured for clarity, easy onboarding, and professional presentation.
-
----
-
 # DGI RUC Consultation API Proxy
 
 ![Node.js](https://img.shields.io/badge/Node.js-16.x+-green.svg)![Express.js](https://img.shields.io/badge/Express.js-4.x-blue.svg)![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
