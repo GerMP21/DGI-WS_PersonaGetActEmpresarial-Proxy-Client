@@ -109,5 +109,5 @@ app.get('/api/v1/consulta_ruc/:ruc', authenticateToken, async (req, res) => {
 });
 
 app.listen(port, () => {
-    console.log(`DGI Proxy API server listening at http://localhost:${port}`);
+    console.log(`DGI Proxy API server listening at http://0.0.0.0:${port}`);
 });
